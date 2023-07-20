@@ -1,15 +1,15 @@
 {
   "name": "word-guess-game(sass)",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "word guessing game",
+  "main": "app.js",
   "scripts": {
     "sass": "node-sass -w sass/ -o src/css/ --recursive"
   },
   "keywords": [],
-  "author": "",
+  "author": "Xelilov Kamran",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "node-sass": "^9.0.0"
   }
 }
