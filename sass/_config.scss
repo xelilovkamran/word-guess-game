@@ -1,0 +1,20 @@
+//* Variables
+
+$primary-color: #1565c0;
+$secondary-color: #00f;
+
+%center-element {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+%btn-shared {
+  background-color: $secondary-color;
+  color: #fff;
+  width: 9.3rem;
+  height: 2.5rem;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+}
